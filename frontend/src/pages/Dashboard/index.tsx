@@ -29,9 +29,8 @@ const Dashboard = () => {
                 <DataTable />
             </div>
             <Footer />
-
         </>
     );
-}
+};
 
 export default Dashboard;
